@@ -1,10 +1,8 @@
 # Site settings
-title: Northen Sky
+title: 北空 | Northen Sky
 email: jekyll@slepox.net
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > 
+  本博客是由slepox个人原创和维护的个人站点，主要以技术分享和生活经验为主。欢迎转载；转载请注明出处slepox.github.io。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://slepox.github.io" # the base hostname & protocol for your site
 twitter_username: slepox
